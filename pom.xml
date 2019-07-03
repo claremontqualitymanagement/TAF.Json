@@ -6,7 +6,7 @@
     <groupId>com.github.claremontqualitymanagement</groupId>
     <artifactId>taf.json</artifactId>
     <name>TAF.Json</name>
-    <version>4.0.0</version>
+    <version>4.0.0-SNAPSHOT</version>
     <description>JSON support for TAF (Test Automation Framework) by Claremont.</description>
     <url>https://github.com/claremontqualitymanagement/TAF.Json</url>
 
