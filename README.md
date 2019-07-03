@@ -1,2 +1,2 @@
-# TAF.Json
-JSON support for TAF (Test Automation Framework)
+# TAF.Support.Json
+Support for verifying and working with JSON in TAF (Test Automation Framework)
